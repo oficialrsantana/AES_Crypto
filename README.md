@@ -1,5 +1,5 @@
 # AES_Crypto
-This is an AES cryptography program created as part of the grade for the undergraduation Comunication Network subject.
+This is an AES cryptography program created by Rafael Santana in Java as part of the grade for the Networking and Comunications subject at his Electrical and Electronics Engineering Degree.
 
 ### Como Encriptar:
 1. Escolher na aba Início a operação desejada "Encriptar";
